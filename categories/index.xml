@@ -1,49 +1,49 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Huabing Blog</title>
-    <link>https://zhaohuabing.com/categories/</link>
-    <description>Recent content in Categories on Huabing Blog</description>
+    <title>Categories on Huabing Blog Test for RBC</title>
+    <link>https://rbcer17.github.io/rblogexample/categories/</link>
+    <description>Recent content in Categories on Huabing Blog Test for RBC</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 01 Dec 2020 21:13:14 -0500</lastBuildDate>
     
-	<atom:link href="https://zhaohuabing.com/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rbcer17.github.io/rblogexample/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>R</title>
-      <link>https://zhaohuabing.com/categories/r/</link>
+      <link>https://rbcer17.github.io/rblogexample/categories/r/</link>
       <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
       
-      <guid>https://zhaohuabing.com/categories/r/</guid>
+      <guid>https://rbcer17.github.io/rblogexample/categories/r/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tech</title>
-      <link>https://zhaohuabing.com/categories/tech/</link>
+      <link>https://rbcer17.github.io/rblogexample/categories/tech/</link>
       <pubDate>Mon, 04 Jun 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://zhaohuabing.com/categories/tech/</guid>
+      <guid>https://rbcer17.github.io/rblogexample/categories/tech/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tips</title>
-      <link>https://zhaohuabing.com/categories/tips/</link>
+      <link>https://rbcer17.github.io/rblogexample/categories/tips/</link>
       <pubDate>Thu, 24 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://zhaohuabing.com/categories/tips/</guid>
+      <guid>https://rbcer17.github.io/rblogexample/categories/tips/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Life</title>
-      <link>https://zhaohuabing.com/categories/life/</link>
+      <link>https://rbcer17.github.io/rblogexample/categories/life/</link>
       <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://zhaohuabing.com/categories/life/</guid>
+      <guid>https://rbcer17.github.io/rblogexample/categories/life/</guid>
       <description></description>
     </item>
     
